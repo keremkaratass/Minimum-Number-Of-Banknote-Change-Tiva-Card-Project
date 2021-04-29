@@ -1,4 +1,4 @@
-# Vehicle-Washing-Machine-With-At-Least-A-Number-Of-BanknNote-Change
+# Minimum-Number-Of-Banknote-Change-Tiva-Card-Project
 
 After the purchase of the TM4C123GXL Tiva C Series LaunchPad;
 ## Setup Processes
